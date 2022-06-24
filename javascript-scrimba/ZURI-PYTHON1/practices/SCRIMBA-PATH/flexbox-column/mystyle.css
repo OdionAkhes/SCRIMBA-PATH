@@ -1,0 +1,46 @@
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 36px;
+
+}
+
+h3 {
+    font-size: 28px;
+}
+
+body {
+    font-size: 21px;
+    margin: 0;
+}
+
+header {
+    background-color: #588C94;
+    text-align: center;
+    color: white;
+    padding: 30px 0;
+    margin: 0;
+}
+
+.intro {
+ width: 500px;
+ margin: 100px auto;
+ text-align: center;
+}
+
+.myskills {
+    background-color: #1D3C41;
+    color: white;
+    display: flex;
+    padding: 75px 0;
+}
+
+.columns {
+    display: flex;
+}
+.column {
+    margin: 0 10px;
+    text-align: center;
+}
