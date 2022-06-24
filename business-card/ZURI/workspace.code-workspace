@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../zuri-python"
+	},
+	{
+		"path": "../WEB DEVELOPEMENT/HTML-Personal site"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "SCRIMBA-PATH"
+  }
+}

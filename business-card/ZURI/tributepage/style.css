@@ -1,0 +1,69 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+color: #333;
+}
+
+#main {
+text-align:center;
+padding: 30px 20px;
+background: #eee;
+margin: 30px 0;
+border-radius:5px;
+}
+
+.heading {
+    font-size: 39px;
+    margin-bottom: 30px;
+}
+
+.heading-text {
+    font-size: 18px;
+}
+#img-div {
+    background-color: white;
+    margin: 0;
+}
+
+#image {
+    max-width: 98%;
+}
+
+#img-caption {
+ padding: 15px;
+    
+}
+
+.timeline-header {
+    font-size: 20px;
+    padding: 50px 0 10px ;
+}
+
+.timeline {
+    max-width: 600px;
+    margin: 50px auto 0;
+}
+
+.timeline-list {
+    text-align: left;
+    font-size: 17px;
+    line-height: 160%;
+    margin: 17px;
+}
+
+.quote {
+    text-align: left;
+    font-size: 17px;
+    line-height: 150%;
+    max-width: 600px;
+    margin: 0px auto;
+    font-style: italic;
+    padding: 20px 0 20px;
+
+}
+
+blockquote {
+    padding: 50px 0;
+}
+
+
+
