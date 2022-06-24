@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../profile-card"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "SCRIMBA-PATH"
+  }
+}
